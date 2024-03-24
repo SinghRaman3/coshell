@@ -1,0 +1,29 @@
+/* .topnav-link{  
+    color: #fff;
+    position: relative;
+    font-weight: 500;
+}
+
+.topnav-link:hover{
+    color: #fff;
+}
+
+.topnav-link::after{
+    content: '';
+    opacity: 0;
+    transition: all 0.2s;
+    height: 2px;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;        
+}
+
+.topnav-link:hover::after{
+    opacity: 1;
+}
+
+.btn:hover{
+    color: #fff;
+} */
